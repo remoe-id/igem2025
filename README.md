@@ -52,7 +52,7 @@ Test Accuracy:0.8226
 
 多次测试准确率均在0.83左右。
 
-源代码仓库地址：[remoe-id/igem2025](https://github.com/remoe-id/igem2025)
+源代码仓库地址：[[remoe-id/igem2025](https://github.com/remoe-id/igem2025/tree/master)](https://github.com/remoe-id/igem2025)
 
 ### 部分发现
 
